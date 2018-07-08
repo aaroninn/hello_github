@@ -6,3 +6,7 @@
 
 - golang
 - python
+
+## 我的学习计划
+
+- 进一步学习 golang 后端开发
